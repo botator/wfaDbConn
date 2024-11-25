@@ -1,0 +1,14 @@
+C:\Users\bastyai.botond\Desktop\ca20241125\ca20241125\bin\Debug\net8.0\ca20241125.exe
+C:\Users\bastyai.botond\Desktop\ca20241125\ca20241125\bin\Debug\net8.0\ca20241125.deps.json
+C:\Users\bastyai.botond\Desktop\ca20241125\ca20241125\bin\Debug\net8.0\ca20241125.runtimeconfig.json
+C:\Users\bastyai.botond\Desktop\ca20241125\ca20241125\bin\Debug\net8.0\ca20241125.dll
+C:\Users\bastyai.botond\Desktop\ca20241125\ca20241125\bin\Debug\net8.0\ca20241125.pdb
+C:\Users\bastyai.botond\Desktop\ca20241125\ca20241125\obj\Debug\net8.0\ca20241125.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bastyai.botond\Desktop\ca20241125\ca20241125\obj\Debug\net8.0\ca20241125.AssemblyInfoInputs.cache
+C:\Users\bastyai.botond\Desktop\ca20241125\ca20241125\obj\Debug\net8.0\ca20241125.AssemblyInfo.cs
+C:\Users\bastyai.botond\Desktop\ca20241125\ca20241125\obj\Debug\net8.0\ca20241125.csproj.CoreCompileInputs.cache
+C:\Users\bastyai.botond\Desktop\ca20241125\ca20241125\obj\Debug\net8.0\ca20241125.dll
+C:\Users\bastyai.botond\Desktop\ca20241125\ca20241125\obj\Debug\net8.0\refint\ca20241125.dll
+C:\Users\bastyai.botond\Desktop\ca20241125\ca20241125\obj\Debug\net8.0\ca20241125.pdb
+C:\Users\bastyai.botond\Desktop\ca20241125\ca20241125\obj\Debug\net8.0\ca20241125.genruntimeconfig.cache
+C:\Users\bastyai.botond\Desktop\ca20241125\ca20241125\obj\Debug\net8.0\ref\ca20241125.dll
